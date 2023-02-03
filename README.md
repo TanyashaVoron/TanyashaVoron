@@ -22,8 +22,9 @@
 <br> 
 
 :mailbox: Как связаться со мной:  [![gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:tvm010203@gmail.com)
-tvm010203@mail.ru
-tvm010203@gmail.com
+<br> tvm010203@mail.ru
+<br> tvm010203@gmail.com
+
 ---
 
 ### 💻 Социальные сети:
