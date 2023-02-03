@@ -11,7 +11,7 @@
 Дээ, а еще часто ошиваюсь в кофейнях или на заумных IT-конференциях
 Постоянно ищу ребят в команду для развития проектиков 😜
 
-:mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Tanyasha_Voron-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:tvm010203@gmail.com)
+:mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Tanyasha_Voron-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Tanyasha_Voron) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:tvm010203@gmail.com)
 
 ---
 
