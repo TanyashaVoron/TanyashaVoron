@@ -21,7 +21,7 @@
 Постоянно ищу ребят в команду для развития проектиков 😜
 <br> 
 
-:mailbox: Как связаться со мной:  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:tvm010203@gmail.com)
+:mailbox: Как связаться со мной:  [![mail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:tvm010203@mail.ru)
 
 ---
 
