@@ -93,6 +93,12 @@
 
 ---
 
+### 💻 Codewars:
+
+![codewars](https://www.codewars.com/users/TanyashaVoron/badges/large)
+
+---
+
 ### ⚙️ GitHub статистика:
 
 <table>
