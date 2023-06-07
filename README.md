@@ -1,7 +1,7 @@
 Привет,![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) меня зовут Татьяна!
 ================================================================================================================================
 <div style="background-color: #f5f5f5; padding: 20px;">
-    <p style="font-size: 24px; color: #333; font-weight: bold;">Привет, я разработчик из Екатеринбурга!
+    <p style="font-size: 24px; color: #333; font-weight: bold;">Я разработчик из Екатеринбурга!
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px" style="vertical-align: middle;"></p>
     <p style="font-size: 18px; color: #666;">Раньше увлекалась рисованием и дизайном, но потом открыла для себя мир разработки. Сейчас я учусь на программиста (матмех, привет!) развиваюсь в аналитике и бд.</p>
     <p style="font-size: 18px; color: #666;">Я люблю часами сидеть за ноутбуком и искать ошибки в коде, а также ошиваться на заумных IT-конференциях или кофейнях.</p>
