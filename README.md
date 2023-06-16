@@ -1,16 +1,15 @@
-Привет,![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) меня зовут Татьяна!
+Hello,![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) my name is Tatiana! 
 ================================================================================================================================
-<div style="background-color: #f5f5f5; padding: 20px;">
-    <p style="font-size: 24px; color: #333; font-weight: bold;">Я разработчик из Екатеринбурга!
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px" style="vertical-align: middle;"></p>
-    <p style="font-size: 18px; color: #666;">Раньше увлекалась рисованием и дизайном, но потом открыла для себя мир разработки. Сейчас я учусь на программиста (матмех, привет!) развиваюсь в аналитике и бд.</p>
-    <p style="font-size: 18px; color: #666;">Я люблю часами сидеть за ноутбуком и искать ошибки в коде, а также ошиваться на заумных IT-конференциях или кофейнях.</p>
-    <p style="font-size: 18px; color: #666;">Если ты тоже увлечен IT и хочешь присоединиться к команде для развития проектов, то давай общаться!</p>
-</div>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100px" style="vertical-align: middle;"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336ACF7&lines=Computer+Science+UrFU)](https://git.io/typing-svg)
+
+#### I used to be into drawing and design, but then I discovered the world of development. 
+#### Now I'm working in an IT company as a backend developer and studying at university. I want to develop in analytics and databases.
+#### I like to spend hours sitting at my laptop looking for bugs in the code, as well as hanging out at nerdy IT conferences or coffee houses.
+##### If you're also passionate about IT and want to join the team to develop projects, then let's chat!
 
 ---
  
-### 💻 Социальные сети:
+### 💻 Social network:
 
   <div id="badges">
     <a href="https://t.me/Tanyasha_Voron" target="_blank">
@@ -29,7 +28,7 @@
 
 ---
 
-### 🛠 Скилы
+### 🛠 Skills
 
 <div>  
   <a href="https://www.java.com/" target="_blank">
@@ -78,13 +77,13 @@
 
 ---
 
-### 💻 Codewars:
+### 💻 CodeWars:
 
 ![codewars](https://www.codewars.com/users/TanyashaVoron/badges/large)
 
 ---
 
-### ⚙️ GitHub статистика:
+### ⚙️ GitHub statistics:
 
 <table>
   <tr>
@@ -96,4 +95,4 @@
     </td>
   </tr>
 </table>
-<a href="https://github.com/TanyashaVoron/TanyashaVoron/blob/main/%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20%D0%BE%D0%B1%D1%89%D0%B5%D0%B5.pdf">Резюме (актуально на 20.03.23)</a>
+<a href="https://github.com/TanyashaVoron/TanyashaVoron/blob/main/%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20%D0%BE%D0%B1%D1%89%D0%B5%D0%B5.pdf">Summary (current as of 03/20/23 (rus 20.03.23)</a>
