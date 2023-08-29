@@ -76,7 +76,10 @@ Hello,![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 </div>
 
 ---
+### <a href="https://github.com/TanyashaVoron/TanyashaVoron/blob/main/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20%D0%B0%D0%BA%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%20%D0%BD%D0%B0%2028.08.23.pdf">Summary</a>  
+(current as of 08/28/23 (rus 28.08.23)
 
+---
 
 ### ⚙️ GitHub statistics:
 
@@ -90,4 +93,4 @@ Hello,![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
     </td>
   </tr>
 </table>
-<a href="https://github.com/TanyashaVoron/TanyashaVoron/blob/main/%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20%D0%BE%D0%B1%D1%89%D0%B5%D0%B5.pdf">Summary (current as of 03/20/23 (rus 20.03.23)</a>
+
