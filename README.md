@@ -31,52 +31,102 @@ If you're also passionate about IT and want to join the team to develop projects
 
 ---
 
-🛠 Skills
+🛠 Skills:
 
-<div>  
+<table>
+  <tr>
+   <td>
+    <div>
+ <a href="https://www.python.org/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
+  </a>
+ <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
+  <img style="margin: 10px" src ="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
+ </a>
+ <a href="https://flask. palletsprojects.com/" target="_blank" rel="noreferrer"> 
+  <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40 " height="40"/> 
+ </a>
+</div>
+   </td>
+   <td>
+    <div>  
   <a href="https://www.java.com/" target="_blank">
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
-  </a>  
-  <a href="https://www.python.org/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
-  </a>  
+  </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
+   <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
+  </a> 
+</div>
+   </td>
+   <td>
+    <div>
   <a href="https://www.cplusplus.com/" target="_blank">
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />
   </a>  
 </div>
-<br> 
-<div>  
+   </td>
+   <td>
+    <div>
+ <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> 
+  <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> 
+ </a> 
+</div>
+   </td>
+   <td>
+    <div>  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="Java Script">
-    <img src="https://skillicons.dev/icons?i=js" />
+    <img style="margin: 10px" src="https://skillicons.dev/icons?i=js" />
   </a>
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" title="HTML">
-    <img src="https://skillicons.dev/icons?i=html" />
+    <img style="margin: 10px" src="https://skillicons.dev/icons?i=html" />
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" title="CSS">
-    <img src="https://skillicons.dev/icons?i=css" />
+    <img style="margin: 10px" src="https://skillicons.dev/icons?i=css" />
   </a>
 </div>
-<br> 
-<div>
+   </td>
+   <td>
+    <div>
+  <a href="https://www. mysql.com/" target="_blank" rel="noreferrer"> 
+   <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt ="mysql" width="40" height="40"/> 
+  </a>
+ <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+  <img style="margin: 10px" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+ </a>
+</div>
+   </td>
+</tr>
+</table>
+  <table>
+   <tr>
+   <td>
+    <div>
    <a href="https://www.figma.com/" target="_blank" rel="noreferrer" title="Figma">
-    <img src="https://skillicons.dev/icons?i=figma" />
+    <img style="margin: 10px" src="https://skillicons.dev/icons?i=figma" />
   </a>
-            <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer" title="Photoshop">
-    <img src="https://skillicons.dev/icons?i=photoshop" />
+   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer" title="Photoshop">
+    <img style="margin: 10px" src="https://skillicons.dev/icons?i=photoshop" />
   </a>
-            <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer" title="Illustrator">
-    <img src="https://skillicons.dev/icons?i=ai" />
+    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer" title="Illustrator">
+    <img style="margin: 10px" src="https://skillicons.dev/icons?i=ai" />
   </a> 
   <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank">
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" />
   </a>   
 </div>
-<br> 
-<div>
+   </td>
+   <td>
+    <div>
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git">
-    <img src="https://skillicons.dev/icons?i=git" />
+    <img style="margin: 10px" src="https://skillicons.dev/icons?i=git" />
+  </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+   <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt ="postman" width="40" height="40"/> 
   </a>
 </div>
+   </td>
+  </tr>
+</table>
 
 ---
 <a href="https://github.com/TanyashaVoron/TanyashaVoron/blob/main/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20%D0%B0%D0%BA%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%20%D0%BD%D0%B0%2028.08.23.pdf">Summary</a>  
@@ -96,4 +146,3 @@ If you're also passionate about IT and want to join the team to develop projects
     </td>
   </tr>
 </table>
-
