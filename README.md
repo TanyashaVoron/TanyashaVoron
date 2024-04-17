@@ -2,17 +2,14 @@ Hello,![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 ================================================================================================================================
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100px" style="vertical-align: middle;"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336ACF7&lines=Computer+Science+UrFU)](https://git.io/typing-svg)
 
-I used to be into drawing and design, but then I discovered the world of development. 
-<br> 
-Now I'm working in an IT company as a backend developer and studying at university. I want to develop in analytics and databases.
-<br> 
-I like to spend hours sitting at my laptop looking for bugs in the code, as well as hanging out at nerdy IT conferences or coffee houses.
-<br> 
-If you're also passionate about IT and want to join the team to develop projects, then let's chat!
+- I used to be into drawing and design, but then I discovered the world of development.
+- In my second year of university, I worked in an IT company as a backend developer.  I loved sitting at my laptop for hours looking for bugs in code, and spending time at nerdy IT conferences or coffee shops. But I wanted to develop in the field of analytics and databases.  
+- I was invited to a startup to work as a systems analyst and I really enjoyed it. Now I work as a systems analyst in a large company and continue to develop.
+- If you're also passionate about IT and want to join the team to develop projects, let's chat!
 
 ---
  
- 💻 Social network:
+ 💻 Social network: <a href="https://github.com/TanyashaVoron/TanyashaVoron/blob/main/%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20%D0%B0%D0%BF%D1%80%D0%B5%D0%BB%D1%8C%202024.pdf">Summary</a>  
 
   <div id="badges">
     <a href="https://t.me/Tanyasha_Voron" target="_blank">
@@ -127,10 +124,6 @@ If you're also passionate about IT and want to join the team to develop projects
    </td>
   </tr>
 </table>
-
----
-<a href="https://github.com/TanyashaVoron/TanyashaVoron/blob/main/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20%D0%B0%D0%BA%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%20%D0%BD%D0%B0%2028.08.23.pdf">Summary</a>  
-(current as of 08/28/23 (rus 28.08.23)
 
 ---
 
